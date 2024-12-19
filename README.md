@@ -1,14 +1,14 @@
-<h2 style="text-align:center; color: #4CAF50;"> 👋 Hello! I'm Reda Bouizergane </h2>
-<p style="font-size: 18px; text-align:center; max-width: 800px; margin: auto;">
+<h2 style="text-align:center; color: #4CAF50; font-size: 2.5em; margin-bottom: 20px;"> 👋 Hello! I'm Reda Bouizergane </h2>
+<p style="font-size: 18px; text-align:center; max-width: 800px; margin: auto; line-height: 1.6;">
   I'm a passionate student at <strong>EMSI Casablanca</strong> (École Marocaine des Sciences de l'Ingénieur) and <strong>1337 Khouribga</strong>, deeply enthusiastic about technology, innovation, and software development. I strive to create impactful, real-world solutions that push the boundaries of what's possible.
 </p>
 
-<a href="https://github.com/oakoudad/badge42" style="display: block; text-align:center;">
+<a href="https://github.com/oakoudad/badge42" style="display: block; text-align:center; margin-top: 20px;">
   <img align="center" width="50%" src="https://badge.mediaplus.ma/greenbinary/rbouizer" alt="rbouizer's 42 stats" />
 </a>
 
-<h3 style="color: #4CAF50; text-align:center;"> 👨🏻‍💻 About Me </h3>
-<ul style="max-width: 800px; margin: auto; font-size: 18px; padding-left: 20px;">
+<h3 style="color: #4CAF50; text-align:center; font-size: 2em; margin-top: 40px;"> 👨🏻‍💻 About Me </h3>
+<ul style="max-width: 800px; margin: auto; font-size: 18px; padding-left: 20px; list-style-type: disc; line-height: 1.8;">
   <li>🌟 Passionate about leveraging technology to solve real-world problems and make an impact.</li>
   <li>📚 Pursuing expertise in Computer Science, Mathematics, and cutting-edge Web Development practices.</li>
   <li>🔧 Freelancing as a web developer, creating tailored solutions for diverse clients.</li>
@@ -16,9 +16,9 @@
   <li>💡 Actively learning new frameworks, tools, and languages to stay ahead in the fast-paced tech world.</li>
 </ul>
 
-<h3 style="color: #4CAF50; text-align:center;"> 🛠️ Tech Stack & Expertise </h3>
+<h3 style="color: #4CAF50; text-align:center; font-size: 2em; margin-top: 40px;"> 🛠️ Tech Stack & Expertise </h3>
 <div style="display: flex; flex-wrap: wrap; justify-content: space-around; gap: 20px; max-width: 1100px; margin: auto;">
-  <div style="flex: 1 1 300px; min-width: 250px;">
+  <div style="flex: 1 1 300px; min-width: 250px; background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h4 style="color: #4CAF50;">💻 Programming Languages</h4>
     <div>
       <img src="https://img.shields.io/badge/-Python-333333?style=flat&logo=python" alt="Python"/>
@@ -29,7 +29,7 @@
     </div>
   </div>
 
-  <div style="flex: 1 1 300px; min-width: 250px;">
+  <div style="flex: 1 1 300px; min-width: 250px; background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h4 style="color: #4CAF50;">🌐 Frontend & Backend</h4>
     <div>
       <img src="https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5" alt="HTML5"/>
@@ -42,7 +42,7 @@
     </div>
   </div>
 
-  <div style="flex: 1 1 300px; min-width: 250px;">
+  <div style="flex: 1 1 300px; min-width: 250px; background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h4 style="color: #4CAF50;">🛢️ Databases</h4>
     <div>
       <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB"/>
@@ -52,7 +52,7 @@
     </div>
   </div>
 
-  <div style="flex: 1 1 300px; min-width: 250px;">
+  <div style="flex: 1 1 300px; min-width: 250px; background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h4 style="color: #4CAF50;">⚙️ Tools & Version Control</h4>
     <div>
       <img src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git" alt="Git"/>
@@ -63,7 +63,7 @@
     </div>
   </div>
 
-  <div style="flex: 1 1 300px; min-width: 250px;">
+  <div style="flex: 1 1 300px; min-width: 250px; background-color: #f9f9f9; padding: 20px; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);">
     <h4 style="color: #4CAF50;">🖥️ Design Tools</h4>
     <div>
       <img src="https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma" alt="Figma"/>
@@ -73,7 +73,7 @@
   </div>
 </div>
 
-<h3 style="color: #4CAF50; text-align:center;"> 📊 GitHub Stats </h3>
+<h3 style="color: #4CAF50; text-align:center; font-size: 2em; margin-top: 40px;"> 📊 GitHub Stats </h3>
 <div style="display: flex; justify-content: center; gap: 40px;">
   <a href="https://github.com/Redabouizer">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Redabouizer&theme=radical&show_icons=true" alt="GitHub Stats" />
@@ -83,12 +83,12 @@
   </a>
 </div>
 
-<h3 style="color: #4CAF50; text-align:center;"> 🤝 Connect With Me </h3>
-<p style="text-align:center;">
+<h3 style="color: #4CAF50; text-align:center; font-size: 2em; margin-top: 40px;"> 🤝 Connect With Me </h3>
+<p style="text-align:center; font-size: 18px;">
   <a href="https://www.linkedin.com/in/reda-bouizergane" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin"></a>
   <a href="https://www.instagram.com/reda_bouize" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-333333?style=flat-square&logo=instagram"></a>
   <a href="mailto:redabouizergane6@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-redabouizergane6@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-<h3 style="color: #4CAF50; text-align:center;"> 🌟 Let's Build the Future Together! </h3>
+<h3 style="color: #4CAF50; text-align:center; font-size: 2em; margin-top: 40px;"> 🌟 Let's Build the Future Together! </h3>
 <p align="center" style="font-size: 18px; color: #555;">✨ Crafted with passion, creativity, and dedication! ✨</p>
