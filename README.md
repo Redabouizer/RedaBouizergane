@@ -7,10 +7,10 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 <ul>
-  <li>🤔 Exploring new technologies and crafting efficient software solutions.</li>
-  <li>🎓 Studying Computer Science, Mathematics, and Web Development.</li>
-  <li>💼 Working as a freelance web developer, delivering high-quality projects.</li>
-  <li>🌱 Currently diving into Web3.0, Blockchain, and Artificial Intelligence.</li>
+  <li>🌟 Passionate about leveraging technology to solve real-world problems and make an impact.</li>
+  <li>📚 Pursuing expertise in Computer Science, Mathematics, and cutting-edge Web Development practices.</li>
+  <li>🔧 Freelancing as a web developer, creating tailored solutions for diverse clients.</li>
+  <li>🚀 Exploring the frontiers of Web3.0, Blockchain technologies, and Artificial Intelligence to build the future.</li>
 </ul>
 
 <h3> 🛠 Tech Stack </h3>
