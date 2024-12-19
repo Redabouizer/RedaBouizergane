@@ -49,8 +49,8 @@
 
 <h3> 📊 GitHub Stats </h3>
 <a href="https://github.com/Redabouizer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=reda-bouizergane&theme=radical&show_icons=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reda-bouizergane&theme=radical&layout=compact" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Redabouizer&theme=radical&show_icons=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redabouizer&theme=radical&layout=compact" alt="Top Languages" />
 </a>
 
 <h3> 🤝 Connect With Me </h3>
