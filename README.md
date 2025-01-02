@@ -2,7 +2,7 @@
 
 <p align="center">
   <em>
-    A passionate student at <strong>1337 Khouribga</strong> (42 Network) and <strong>EMSI Casablanca</strong> (Honoris United Universities), with a deep enthusiasm for technology, innovation, and software development. I strive to create impactful, real-world solutions that push the boundaries of what's possible.
+    A passionate student at <strong>1337 Khouribga</strong> (42 Network) and <strong>EMSI Casablanca</strong> (Honoris United Universities), deeply enthusiastic about technology, innovation, and software development. My mission is to create impactful solutions that push the boundaries of innovation.
   </em>
 </p>
 
@@ -14,11 +14,11 @@
 
 <h2>👨🏻‍💻 About Me</h2>
 <ul>
-  <li>🌟 Passionate about leveraging technology to solve real-world problems and make an impact.</li>
-  <li>📚 Pursuing expertise in Computer Science, Mathematics, and cutting-edge Web Development practices.</li>
-  <li>🔧 Freelancing as a web developer, creating tailored solutions for diverse clients.</li>
-  <li>🚀 Exploring the frontiers of Web3.0, Blockchain technologies, and Artificial Intelligence.</li>
-  <li>💡 Actively learning new frameworks, tools, and languages to stay ahead in the fast-paced tech world.</li>
+  <li>🌟 Passionate about leveraging technology to solve real-world problems.</li>
+  <li>📚 Gaining expertise in Computer Science, Mathematics, and advanced Web Development.</li>
+  <li>🔧 Freelancing as a web developer, delivering tailored solutions for diverse clients.</li>
+  <li>🚀 Exploring Web3.0, Blockchain, and Artificial Intelligence frontiers.</li>
+  <li>💡 Continuously learning to stay ahead in the fast-paced tech world.</li>
 </ul>
 
 ---
