@@ -76,25 +76,3 @@
 
 <h3 align="center" style="animation: bounce 2s infinite; text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);">🌟 Let's Build the Future Together!</h3>
 <p align="center" style="color: #6c757d; font-size: 1rem;">✨ Crafted with passion, creativity, and dedication! ✨</p>
-
-<style>
-  @keyframes scaleUp {
-    0% { transform: scale(0.9); opacity: 0.5; }
-    100% { transform: scale(1); opacity: 1; }
-  }
-
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    100% { opacity: 1; }
-  }
-
-  @keyframes slideUp {
-    0% { transform: translateY(20px); opacity: 0; }
-    100% { transform: translateY(0); opacity: 1; }
-  }
-
-  @keyframes bounce {
-    0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-10px); }
-  }
-</style>
