@@ -2,31 +2,30 @@
 
 <p align="center">
   <em>
-    A passionate student at <strong>1337 Khouribga</strong> (42 Network) and <strong>EMSI Casablanca</strong> (Honoris United Universities), deeply enthusiastic about technology, innovation, and software development. My mission is to create impactful solutions that push the boundaries of innovation.
+    A dedicated student at <strong>1337 Khouribga</strong> (42 Network) and <strong>EMSI Casablanca</strong> (Honoris United Universities), driven by a passion for technology, innovation, and software development. My mission is to deliver impactful solutions that push the boundaries of innovation.
   </em>
 </p>
 
 <div align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/rbouizer" alt="rbouizer's 42 stats" width="60%"/>
+  <img src="https://badge.mediaplus.ma/greenbinary/rbouizer" alt="rbouizer's 42 stats" width="60%" />
 </div>
 
----
+<hr />
 
 <h2>👨🏻‍💻 About Me</h2>
 <ul>
-  <li>🌟 Passionate about leveraging technology to solve real-world problems.</li>
-  <li>📚 Gaining expertise in Computer Science, Mathematics, and advanced Web Development.</li>
-  <li>🔧 Freelancing as a web developer, delivering tailored solutions for diverse clients.</li>
-  <li>🚀 Exploring Web3.0, Blockchain, and Artificial Intelligence frontiers.</li>
-  <li>💡 Continuously learning to stay ahead in the fast-paced tech world.</li>
+  <li>🌟 <strong>Passionate</strong> about leveraging technology to solve real-world problems.</li>
+  <li>📚 Gaining expertise in <strong>Computer Science</strong>, <strong>Mathematics</strong>, and <strong>Advanced Web Development</strong>.</li>
+  <li>🔧 Freelancing as a <strong>web developer</strong>, delivering customized solutions for diverse clients.</li>
+  <li>🚀 Exploring <strong>Web3.0</strong>, <strong>Blockchain</strong>, and <strong>Artificial Intelligence</strong>.</li>
+  <li>💡 Continuously learning to stay ahead in the fast-evolving tech world.</li>
 </ul>
 
----
+<hr />
 
 <h2>🛠️ Tech Stack & Expertise</h2>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 20px;">
-
-  <div style="flex: 1 1 300px; min-width: 250px;">
+  <div>
     <h3>💻 Programming Languages</h3>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -35,7 +34,7 @@
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </div>
 
-  <div style="flex: 1 1 300px; min-width: 250px;">
+  <div>
     <h3>🌐 Frontend & Backend</h3>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -45,7 +44,7 @@
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   </div>
 
-  <div style="flex: 1 1 300px; min-width: 250px;">
+  <div>
     <h3>🛢️ Databases</h3>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
@@ -53,17 +52,16 @@
     <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
   </div>
 
-  <div style="flex: 1 1 300px; min-width: 250px;">
+  <div>
     <h3>🔧 Tools & Frameworks</h3>
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
     <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
     <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux.js" />
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
   </div>
-
 </div>
 
----
+<hr />
 
 <h2>📊 GitHub Stats</h2>
 <div align="center">
@@ -71,7 +69,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redabouizer&theme=radical&layout=compact" alt="Top Languages" />
 </div>
 
----
+<hr />
 
 <h2>🤝 Connect With Me</h2>
 <div align="center">
@@ -86,7 +84,7 @@
   </a>
 </div>
 
----
+<hr />
 
 <h3 align="center">🌟 Let's Build the Future Together!</h3>
 <p align="center" style="color: #6c757d;">✨ Crafted with passion, creativity, and dedication! ✨</p>
