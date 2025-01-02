@@ -1,78 +1,66 @@
-<h1 align="center">👋 Hello! I'm Reda Bouizergane</h1>
+<h1 align="center" style="font-size: 3rem;">👋 Hello! I'm <span style="color: #ff6f61;">Reda Bouizergane</span></h1>
 
-<p align="center">
-  <em>
-    A dedicated student at <strong>1337 Khouribga</strong> (42 Network) and <strong>EMSI Casablanca</strong> (Honoris United Universities), driven by a passion for technology, innovation, and software development. My mission is to deliver impactful solutions that push the boundaries of innovation.
-  </em>
+<p align="center" style="font-size: 1.2rem; font-style: italic; max-width: 800px; margin: auto;">
+  A passionate student at <strong>1337 Khouribga</strong> (42 Network) and <strong>EMSI Casablanca</strong> (Honoris United Universities), deeply enthusiastic about technology, innovation, and software development. My mission is to create impactful solutions that push the boundaries of innovation.
 </p>
 
 <div align="center">
-  <img src="https://badge.mediaplus.ma/greenbinary/rbouizer" alt="rbouizer's 42 stats" width="60%" />
+  <img src="https://badge.mediaplus.ma/greenbinary/rbouizer" alt="rbouizer's 42 stats" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.25);" width="70%"/>
 </div>
 
-<hr />
+---
 
 <h2>👨🏻‍💻 About Me</h2>
-<ul>
-  <li>🌟 <strong>Passionate</strong> about leveraging technology to solve real-world problems.</li>
-  <li>📚 Gaining expertise in <strong>Computer Science</strong>, <strong>Mathematics</strong>, and <strong>Advanced Web Development</strong>.</li>
-  <li>🔧 Freelancing as a <strong>web developer</strong>, delivering customized solutions for diverse clients.</li>
-  <li>🚀 Exploring <strong>Web3.0</strong>, <strong>Blockchain</strong>, and <strong>Artificial Intelligence</strong>.</li>
-  <li>💡 Continuously learning to stay ahead in the fast-evolving tech world.</li>
+<ul style="font-size: 1.1rem; line-height: 1.8;">
+  <li>🌟 Passionate about leveraging technology to solve real-world problems.</li>
+  <li>📚 Gaining expertise in Computer Science, Mathematics, and advanced Web Development.</li>
+  <li>🔧 Freelancing as a web developer, delivering tailored solutions for diverse clients.</li>
+  <li>🚀 Exploring Web3.0, Blockchain, and Artificial Intelligence frontiers.</li>
+  <li>💡 Continuously learning to stay ahead in the fast-paced tech world.</li>
 </ul>
 
-<hr />
+---
 
 <h2>🛠️ Tech Stack & Expertise</h2>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: space-evenly; gap: 20px;">
-  <div>
-    <h3>💻 Programming Languages</h3>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem;">
+  
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <h3 style="text-align: center;">💻 Programming Languages</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+      <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    </div>
   </div>
 
-  <div>
-    <h3>🌐 Frontend & Backend</h3>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <h3 style="text-align: center;">🌐 Frontend & Backend</h3>
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    </div>
   </div>
 
-  <div>
-    <h3>🛢️ Databases</h3>
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
-  </div>
-
-  <div>
-    <h3>🔧 Tools & Frameworks</h3>
-    <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" />
-    <img src="https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white" alt="Symfony" />
-    <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux.js" />
-    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  </div>
 </div>
 
-<hr />
+---
 
 <h2>📊 GitHub Stats</h2>
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Redabouizer&theme=radical&show_icons=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redabouizer&theme=radical&layout=compact" alt="Top Languages" />
+<div align="center" style="animation: fadeIn 1.5s;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Redabouizer&theme=radical&show_icons=true" alt="GitHub Stats" style="border: 2px solid #6c757d; border-radius: 10px; padding: 5px;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Redabouizer&theme=radical&layout=compact" alt="Top Languages" style="border: 2px solid #6c757d; border-radius: 10px; padding: 5px;" />
 </div>
 
-<hr />
+---
 
 <h2>🤝 Connect With Me</h2>
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
   <a href="https://www.linkedin.com/in/reda-bouizergane" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -84,7 +72,7 @@
   </a>
 </div>
 
-<hr />
+---
 
-<h3 align="center">🌟 Let's Build the Future Together!</h3>
-<p align="center" style="color: #6c757d;">✨ Crafted with passion, creativity, and dedication! ✨</p>
+<h3 align="center" style="animation: bounce 2s infinite;">🌟 Let's Build the Future Together!</h3>
+<p align="center" style="color: #6c757d; font-size: 1rem;">✨ Crafted with passion, creativity, and dedication! ✨</p>
